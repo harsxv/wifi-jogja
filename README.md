@@ -26,29 +26,29 @@ Inspired by: [wifian-dibali](https://github.com/wayanjimmy/wifian-dibali)
 
 > DESKRIPSI KENAPA ASIK, DAN KENAPA TIDAK :D
 
-| Wifi | Password | Co-working Space | Alamat | Jam Buka | Harga |
+| Co-working Space | Wifi | Password | Alamat | Jam Buka | Rentang Harga |
 | - | - | - | - | - | - |
-| ✔️ | $password | ❌ | [ALAMAT](GOOGLE MAPS SHORT URL) | JAM BUKA | 💲💲 |
+| ✔️ | ✔️[XX Mbps](https://speedtest.net/) | password | [ALAMAT](GOOGLE MAPS SHORT URL) | JAM BUKA | 💲💲 |
 ```
 ---
 # NAMA TEMPAT WIFIAN ASIK
 ## Nongkrong
 ### Melu Kopi
-> Disamping kafe ada toko buku, bisa pinjam buku dibawa ke kafe.
+> Di samping kafe ada toko buku, bisa pinjam buku dibawa ke kafe.
 
-| Wifi | Password | Co-working Space | Alamat | Jam Buka | Harga |
+| Co-working Space | Wifi | Password | Alamat | Jam Buka | Rentang Harga |
 | - | - | - | - | - | - |
-| ✔️ [28 Mbps](https://www.speedtest.net/my-result/a/8400138375) | kopisusumelu | ✔️ | [Jl. Suroto No.8, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224](https://goo.gl/maps/GRate7znYY7U2mwM6) | 08.00 - 23.00 | 💲💲💲 |
+| ✔️ | ✔️[28 Mbps](https://www.speedtest.net/my-result/a/8400138375) | kopisusumelu | [Jl. Suroto No.8, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224](https://goo.gl/maps/GRate7znYY7U2mwM6) | 08.00 - 23.00 | 💲💲💲 |
 ### Satu Lokasi
 > Tempat asik buat nongkrong bikers / goweser. Ada buku bacaan tentang kopi dan sepeda. Wifi kenceng.
 
-| Wifi | Password | Co-Working Space | Alamat | Jam Buka | Harga |
+| Co-working Space | Wifi | Password | Alamat | Jam Buka | Rentang Harga |
 | - | - | - | - | - | - |
-| ✔️ [50 Mbps](https://www.speedtest.net/my-result/a/8410053619) | satulokasi | ✔️ | [Jl. Suroto No.8, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224](https://goo.gl/maps/GRate7znYY7U2mwM6) | 07.00 - 22.00 | 💲💲💲|
+| ✔️ | ✔️[50 Mbps](https://www.speedtest.net/my-result/a/8410053619) | satulokasi | [Jl. Sareh No.5, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224](https://goo.gl/maps/WhmitRoTbR7ZqXqZ9) | 07.00 - 22.00 | 💲💲💲|
 ## Penginapan
 ### Kos Sariman Saroso
 > Nyaman, seperti keluarga sendiri
 
 | Wifi | Password | Alamat | Harga |
 | - | - | - | - |
-| ✔ [30 Mbps](https://www.speedtest.net/my-result/a/8263112922) | 🔒 | [Papringan, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281](https://goo.gl/maps/d7MWBZFahAKjiyQb7) | 400k/bulan |
+| ✔️ [30 Mbps](https://www.speedtest.net/my-result/a/8263112922) | 🔒 | [Papringan, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281](https://goo.gl/maps/d7MWBZFahAKjiyQb7) | 400k/bulan |
