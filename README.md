@@ -6,8 +6,8 @@ Inspired by: [wifian-dibali](https://github.com/wayanjimmy/wifian-dibali)
 
 ## Indeks
 
-- [Kafe - Coffee Shop - Tempat Ngopi](#nongkrong)
-- [Kos - Guest House - Hotel](#penginapan)
+- [Kafe](#kafe) - kafe, Coffee Shop, Tempat Ngopi, tempat makan
+- [Penginapan](#penginapan) - kos, guest house, hotel, penginapan  
 
 ## Legends
 | Simbol | Penjelasan |
@@ -32,7 +32,7 @@ Inspired by: [wifian-dibali](https://github.com/wayanjimmy/wifian-dibali)
 ```
 ---
 # NAMA TEMPAT WIFIAN ASIK
-## Nongkrong
+## Kafe
 ### Melu Kopi
 > Di samping kafe ada toko buku, bisa pinjam buku dibawa ke kafe.
 
@@ -44,7 +44,13 @@ Inspired by: [wifian-dibali](https://github.com/wayanjimmy/wifian-dibali)
 
 | Co-working Space | Wifi | Password | Alamat | Jam Buka | Rentang Harga |
 | - | - | - | - | - | - |
-| ✔️ | ✔️[50 Mbps](https://www.speedtest.net/my-result/a/8410053619) | satulokasi | [Jl. Sareh No.5, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224](https://goo.gl/maps/WhmitRoTbR7ZqXqZ9) | 07.00 - 22.00 | 💲💲💲|
+| ✔️ | ✔️[50 Mbps](https://www.speedtest.net/my-result/a/8410053619) | satulokasi | [Jl. Sareh No.5, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224](https://goo.gl/maps/WhmitRoTbR7ZqXqZ9) | 07.00 - 22.00 | 💲💲💲 |
+### Ayam Geprek Waroenk Budhe
+> Warung makan dengan sajian menu ramesan, spesial lauk ayam geprek, tempe, sayuran atau ramesan, dll. Menu masakan rumahan, buat yang kangen masakan rumahan bisa mampir ke sini. 
+
+| Co-working Space | Wifi | Password | Alamat | Jam Buka | Rentang Harga |
+| - | - | - | - | - | - |
+| ✔️ | ✔️30 Mbps | tiap hari ganti, request aja ke budhe | [Samirono CT VI/198](https://goo.gl/maps/15krN2wrHcwuF9ks9)| 11.00 - 19.00 | 💲 |
 ## Penginapan
 ### Kos Sariman Saroso
 > Nyaman, seperti keluarga sendiri
