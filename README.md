@@ -104,7 +104,7 @@ Inspired by: [wifian-dibali](https://github.com/wayanjimmy/wifian-dibali)
 
 | Co-working Space | Wifi | Password | Alamat | Jam Buka | Harga |
 | - | - | - | - | - | - |
-| ❌ | ✔️[13 Mbps](https://www.speedtest.net/result/13540833528) | playwingspan | [Jl. Palagan Tentara Pelajar No.29, Mudal, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581](https://g.page/EpicCoffee) | 08.00 - 23.00 | 💲💲💲💲|
+| ❌ | ✔️[13 Mbps](https://www.speedtest.net/result/13540833528) | epic / lemon | [Jl. Palagan Tentara Pelajar No.29, Mudal, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581](https://g.page/EpicCoffee) | 08.00 - 23.00 | 💲💲💲💲|
 
 ### Pakopen Srawung
 > Ruangan terbuka, smoking room
