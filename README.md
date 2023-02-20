@@ -121,6 +121,16 @@ Inspired by: [wifian-dibali](https://github.com/wayanjimmy/wifian-dibali)
 | - | - | - | - | - | - |
 | ❌ | ✔️[10 Mbps](https://www.speedtest.net/result/13508077999) | random 2 jam sekali | [Jl. Selokan Mataram No.429, Pringwulung, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55283](https://goo.gl/maps/4Ck4xeXFhAKdtTdy5) | 12.00 - 24.00 | 💲💲|
 
+### Defreshco Coffee & Bistro Jogja
+> Tempatnya sangat lebar, mungkin bisa menampung 200an orang
+> Pilihan menu makanan dan minuman beragam
+> WiFinya stabil di kecepatan yang super kencang, bisa pakai yang 5G
+> Live music setiap hari
+
+| Co-working Space | Wifi | Password | Alamat | Jam Buka | Harga |
+| - | - | - | - | - | - |
+| ✔️ | ✔️[100 Mbps](https://www.speedtest.net/result/14376260731) | abc123abc | [Jl. Magelang, Rogoyudan, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55242](https://goo.gl/maps/XYgKcsmmTh7DHJoU9) | 07.00 - 02.00 | 💲💲💲 |
+
 ### Ayam Geprek Waroenk Budhe
 > Warung makan dengan sajian menu ramesan, spesial lauk ayam geprek, tempe, sayuran atau ramesan, dll. Menu masakan rumahan, buat yang kangen masakan rumahan bisa mampir ke sini. 
 
