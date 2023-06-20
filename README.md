@@ -33,6 +33,17 @@ Inspired by: [wifian-dibali](https://github.com/wayanjimmy/wifian-dibali)
 ---
 # NAMA TEMPAT WIFIAN ASIK
 ## Kafe
+
+### Tilasawa Coffee Roaster
+> Di saat tempat ngopi lain rata-rata tutup jam 10-11 PM, tempat ngopi ini gak pernah tutup, alias 24 jam.
+> Nilai plus nya yang lain, WiFi nya bisa mencapai 100MBps++ !
+> Tempat parkir nya luas, ada indoor dan outdoor.
+> Tersedia menu makanan ringan dan berat.
+
+| Co-working Space | Wifi | Password | Alamat | Jam Buka | Harga |
+| - | - | - | - | - | - |
+| ✔️ | ✔️[100 Mbps](https://www.speedtest.net/my-result/d/555029247) | hurufbesarsemua | [Jl. Kakatua No.100, Manukan, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281](https://goo.gl/maps/3rPC2ZscsQbQfTti8) | 24 JAM | 💲💲💲|
+
 ### Melu Kopi
 > Di samping kafe ada toko buku, bisa pinjam buku dibawa ke kafe.
 
