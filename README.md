@@ -34,6 +34,14 @@ Inspired by: [wifian-dibali](https://github.com/wayanjimmy/wifian-dibali)
 # NAMA TEMPAT WIFIAN ASIK
 ## Kafe
 
+### Takom 1922 Cafe & Resto - PT Kanisius
+> Hadir dengan konsep open space. Terletak di dalam lingkup PT Kanisius. Tempat sangat luas, bisa menampung 2000 orang dan 200 mobil!
+> WiFi ada, makanan berat dan ringan juga ada.
+
+| Co-working Space | Wifi | Password | Alamat | Jam Buka | Harga |
+| - | - | - | - | - | - |
+| ✔️ | ✔️[20 Mbps](https://www.speedtest.net/result/14916150007) | kanisius / cafe1992 | [Jl. Cempaka, Manggung, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281](https://goo.gl/maps/pmuqZq6XBBEmGSnR8) | 09.00 - 00.00 | 💲💲|
+
 ### Tilasawa Coffee Roaster
 > Di saat tempat ngopi lain rata-rata tutup jam 10-11 PM, tempat ngopi ini gak pernah tutup, alias 24 jam.
 > Nilai plus nya yang lain, WiFi nya bisa mencapai 100MBps++ !
