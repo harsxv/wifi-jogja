@@ -7,7 +7,18 @@ Inspired by: [wifian-dibali](https://github.com/wayanjimmy/wifian-dibali)
 ## Indeks
 
 - [Kafe](#kafe) - kafe, Coffee Shop, Tempat Ngopi, tempat makan
-- [Penginapan](#penginapan) - kos, guest house, hotel, penginapan  
+- [Penginapan](#penginapan) - kos, guest house, hotel, penginapan
+
+## Tools
+- Speedtest.net versi website untuk WiFi dengan kecepatan < 100 MBps
+- Speedtest.net versi mobile untuk WiFi dengan kecepatan > 100 MBps
+
+## Benchmark
+- Pengetasan kecepatan dilakukan menggunakan tools di atas dengan menggunakan tujuan server Speedtest.net yang sama (Jakarta - Nevacloud) untuk memastikan tujuan server yang sama.
+- Pengetasan kecepatan dilakukan sebanyak 3X, data yang ditampilkan di laman ini diambil data dengan kecepatan yang tertinggi.
+- Pengetesan kecepatan menggunakan `Multi Connection`.
+![image](https://github.com/harsxv/wifi-jogja/assets/32115753/4d9c92d2-83dd-4207-ad69-abca42af365c)
+
 
 ## Legends
 | Simbol | Penjelasan |
