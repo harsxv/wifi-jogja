@@ -45,13 +45,21 @@ Inspired by: [wifian-dibali](https://github.com/wayanjimmy/wifian-dibali)
 # NAMA TEMPAT WIFIAN ASIK
 ## Kafe
 
+### Kafe Le Sole
+> Kafe yang sepertinya menyatu dengan Institut Français Indonesia - IFI-LIP Yogyakarta. Terdapat makanan ringan dan berat juga.
+> Tiap 2 minggu sekali ada event yang mengundang berbagai UMKM dari makanan, minuman, maupun aksesoris.
+
+| Co-working Space | Wifi | Password | Alamat | Jam Buka | Harga |
+| - | - | - | - | - | - |
+| ✔️ | ✔️[50 Mbps](https://www.speedtest.net/result/15051472801) | Le Sole Kafe / kombucha | [Jl. Sagan No.3, Terban, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55223](https://goo.gl/maps/tcnc5d9HMkBtwQsf8) | 08.00 - 21.00 | 💲💲 |
+
 ### Blanco Coffee And Books
 > Tempat ini tidak hanya menyajikan coffee shop saja, tapi ternyata sudah memiliki tempat roasting kopi mandiri, dan bahkan juga memiliki kebun kopi sendiri!
 > Lebih detailnya bisa cek di website mereka -> https://blancocoffee.id/
 
 | Co-working Space | Wifi | Password | Alamat | Jam Buka | Harga |
 | - | - | - | - | - | - |
-| ✔️ | ✔️[20 Mbps](https://www.speedtest.net/result/15029276008) | distruknyaada | [Jl. Kranggan No.30, Cokrodiningratan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55233](https://goo.gl/maps/mbKKLR464DDz1U1AA) | 08.00 - 00.00 | 💲💲$ |
+| ✔️ | ✔️[20 Mbps](https://www.speedtest.net/result/15029276008) | distruknyaada | [Jl. Kranggan No.30, Cokrodiningratan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55233](https://goo.gl/maps/mbKKLR464DDz1U1AA) | 08.00 - 00.00 | 💲💲💲 |
 
 ### Takom 1922 Cafe & Resto - PT Kanisius
 > Hadir dengan konsep open space. Terletak di dalam lingkup PT Kanisius. Tempat sangat luas, bisa menampung 2000 orang dan 200 mobil!
