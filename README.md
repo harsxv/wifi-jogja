@@ -45,6 +45,13 @@ Inspired by: [wifian-dibali](https://github.com/wayanjimmy/wifian-dibali)
 # NAMA TEMPAT WIFIAN ASIK
 ## Kafe
 
+### Bursa Coffee
+> Tempat yang nyaman buat jadi co-working space. Banyak meja kursi dan colokan listrik.
+
+| Co-working Space | Wifi | Password | Alamat | Jam Buka | Harga |
+| - | - | - | - | - | - |
+| ✔️ | ✔️[100 Mbps](https://www.speedtest.net/result/15054504680) | Bursakubursamu | [Jl. Palagan Tentara Pelajar No.8, Tegal Rejo, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581](https://goo.gl/maps/EnaDx1WPbWEiQukz6) | 09.00 - 00.00 | 💲💲💲 |
+
 ### Kafe Le Sole
 > Kafe yang sepertinya menyatu dengan Institut Français Indonesia - IFI-LIP Yogyakarta. Terdapat makanan ringan dan berat juga.
 > Tiap 2 minggu sekali ada event yang mengundang berbagai UMKM dari makanan, minuman, maupun aksesoris.
