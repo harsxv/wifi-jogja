@@ -184,12 +184,12 @@ Inspired by: [wifian-dibali](https://github.com/wayanjimmy/wifian-dibali)
 | - | - | - | - | - | - |
 | ✔️ | ✔️[100 Mbps](https://www.speedtest.net/result/14376260731) | abc123abc | [Jl. Magelang, Rogoyudan, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55242](https://goo.gl/maps/XYgKcsmmTh7DHJoU9) | 07.00 - 02.00 | 💲💲💲 |
 
-### Ayam Geprek Waroenk Budhe
-> Warung makan dengan sajian menu ramesan, spesial lauk ayam geprek, tempe, sayuran atau ramesan, dll. Menu masakan rumahan, buat yang kangen masakan rumahan bisa mampir ke sini. 
+### Defreshco Coffee & Bistro Jogja
+> Ada berbagai macam spot buat kerja - https://drive.google.com/file/d/1uOW1LseZT28MFYUN3aS6HjOFY1M-gKa1/view
 
 | Co-working Space | Wifi | Password | Alamat | Jam Buka | Harga |
 | - | - | - | - | - | - |
-| ❌ | ✔️30 Mbps | tiap hari ganti, request aja ke budhe | [Samirono CT VI/198](https://goo.gl/maps/15krN2wrHcwuF9ks9)| 11.00 - 19.00 | 💲 |
+| ✔️ | ✔️[20 Mbps](https://www.speedtest.net/result/17122858098) | ruminategroup | [Jl. Lempongsari No.111, Sumberan, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581](https://maps.app.goo.gl/Hq7P426Mv6eZZFyE9) | 08.00 - 23.00 | 💲💲💲 |
 
 ## Penginapan
 ### Kos Sariman Saroso
