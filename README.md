@@ -184,12 +184,19 @@ Inspired by: [wifian-dibali](https://github.com/wayanjimmy/wifian-dibali)
 | - | - | - | - | - | - |
 | ✔️ | ✔️[100 Mbps](https://www.speedtest.net/result/14376260731) | abc123abc | [Jl. Magelang, Rogoyudan, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55242](https://goo.gl/maps/XYgKcsmmTh7DHJoU9) | 07.00 - 02.00 | 💲💲💲 |
 
-### Defreshco Coffee & Bistro Jogja
+### RUMINATE Coffee & Roastery
 > Ada berbagai macam spot buat kerja - https://drive.google.com/file/d/1uOW1LseZT28MFYUN3aS6HjOFY1M-gKa1/view
 
 | Co-working Space | Wifi | Password | Alamat | Jam Buka | Harga |
 | - | - | - | - | - | - |
 | ✔️ | ✔️[20 Mbps](https://www.speedtest.net/result/17122858098) | ruminategroup | [Jl. Lempongsari No.111, Sumberan, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581](https://maps.app.goo.gl/Hq7P426Mv6eZZFyE9) | 08.00 - 23.00 | 💲💲💲 |
+
+### Sebelas Coffee Crafter Monjali
+> Tempat cukup kecil, hanya tersedia 2 meja panjang buat "working" space.
+
+| Co-working Space | Wifi | Password | Alamat | Jam Buka | Harga |
+| - | - | - | - | - | - |
+| ✔️ | ✔️[40 Mbps](https://www.speedtest.net/result/17137561831) | sebelasmonjali | [Monjali St No.111, Gemawang, Sinduadi, Mlati, Sleman Regency, Special Region of Yogyakarta 55288](https://maps.app.goo.gl/k4bS5FAJXjksvM346) | 24 jam | 💲💲 |
 
 ## Penginapan
 ### Kos Sariman Saroso
