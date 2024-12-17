@@ -101,13 +101,12 @@ Inspired by: [wifian-dibali](https://github.com/wayanjimmy/wifian-dibali)
 | ✔️ | ✔️[50 Mbps](https://www.speedtest.net/result/13326934831) | satulokasi | [Jl. Sareh No.5, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224](https://goo.gl/maps/WhmitRoTbR7ZqXqZ9) | 07.00 - 22.00 | 💲💲💲|
 
 ### Ekologi Desk & Coffee
-> Hanya tersedia ruangan indoor, full AC
 > Tempat duduk dan meja sangat nyaman buat working space
-> Ruangan full aromatherapy bikin nyaman
+> Indoor ada aromatherapy
 
 | Co-working Space | Wifi | Password | Alamat | Jam Buka | Harga |
 | - | - | - | - | - | - |
-| ✔️ | ✔️[50 Mbps](https://www.speedtest.net/my-result/a/8410053619) | theblackmamba | [Jalan Gambir 4, Karang Gayam CT VIII No.139, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281](https://goo.gl/maps/HVf2iH68gFzykpUh6) | 09.00 - 23.00 | 💲💲💲|
+| ✔️ | ✔️[120 Mbps](https://www.speedtest.net/result/17142093315) | dorymatah | [Jalan Gambir 4, Karang Gayam CT VIII No.139, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281](https://goo.gl/maps/HVf2iH68gFzykpUh6) | 09.00 - 23.00 | 💲💲💲|
 
 ### Kala Coffee and Society
 > Tempatnya instagramable, fun.
